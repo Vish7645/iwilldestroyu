@@ -1,0 +1,6 @@
+ls --> to see files and directory under current directory
+pwd --> Present working directory
+mv --> to move files like (mv /home/vishal/Desktop/index.html /home/vishal/Desktop/addme )
+cp --> copy the file
+touch filename --> to create file
+mkdir dirname --> to create directory 
